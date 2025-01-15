@@ -273,7 +273,9 @@ body img {
   padding: 100px 0;
 }
 .footer .container {
-  padding: 0 120px;
+  width: 1158px;
+  padding: 0 15px;
+  margin: 0 auto;
 }
 .footer .container .logo {
   display: inline-block;
