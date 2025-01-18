@@ -321,7 +321,7 @@ body img {
   position: relative;
   overflow: hidden;
 }
-.main .portfolio-section .container .list .card .box .paragraph {
+.main .portfolio-section .container .list .card .box p {
   position: absolute;
   width: 100%;
   height: 100%;
